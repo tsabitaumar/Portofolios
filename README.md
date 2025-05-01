@@ -4,11 +4,20 @@ Interactive dashboard could be accesed at:
 
 ### Data Source
 Data used in this portfolio is an open source supported by MySkill.id
+<br> event_date
+<br> gender
+<br> age
+<br> event_type
+<br> product_id
+<br> category
+<br> subcategory
+<br> brand
+<br> price
+<br> user_id
+<br> user_session
 
-### Steps
-#### Cleaning Data
-
-#### Data Visualization
+### Insights
+<br> - 
 
 ### About Me
 Linkedin      : https://linkedin.com/in/tsabitaumar
