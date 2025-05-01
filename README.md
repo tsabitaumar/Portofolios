@@ -1,10 +1,10 @@
 ### Interactive dashboard could be accesed at: 
-<br> https://lookerstudio.google.com/reporting/8cd66dfa-283f-4dba-9975-25bf5b7cc3e1
+https://lookerstudio.google.com/reporting/8cd66dfa-283f-4dba-9975-25bf5b7cc3e1
 
 ### Tools:
 Python : Cleaning data
-Looker Studio : Data visualization
-Spreadsheet : Data source
+<br> Looker Studio : Data visualization
+<br> Spreadsheet : Data source
 
 ### Data Source
 Data used in this portfolio is an open source supported by MySkill.id. Consist of event_date, gende, age, event_type, product_id, category, subcategory, brand, price, user_id, & user_session.
