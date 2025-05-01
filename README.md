@@ -3,18 +3,7 @@ Interactive dashboard could be accesed at:
 <br> https://lookerstudio.google.com/reporting/8cd66dfa-283f-4dba-9975-25bf5b7cc3e1
 
 ### Data Source
-Data used in this portfolio is an open source supported by MySkill.id. Consist of:
-<br> event_date
-<br> gender
-<br> age
-<br> event_type
-<br> product_id
-<br> category
-<br> subcategory
-<br> brand
-<br> price
-<br> user_id
-<br> user_session
+Data used in this portfolio is an open source supported by MySkill.id. Consist of event_date, gende, age, event_type, product_id, category, subcategory, brand, price, user_id, & user_session.
 
 ### Insights
 - The highest sales obtained from Samsung's smartphone.
