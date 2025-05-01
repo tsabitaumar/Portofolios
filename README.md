@@ -17,9 +17,12 @@ Data used in this portfolio is an open source supported by MySkill.id. Consist o
 <br> user_session
 
 ### Insights
-<br> - The purchase intention of products is around 2%.
-<br> - Purchasion of accesories could be increase by men bags.
-<br> - Perfect time to purchase for most of customers is in the middle of the month.
+- The highest sales obtained from Samsung's smartphone.
+<br> - The most visits are obtained from Samsung's smartphone.
+<br> - The highest sales occur in the middle of the month.
+<br> - At the beginning of the month, visits & purchases tend to decrease.
+<br> - Sales at the end of the month tend to be low.
+<br> - Sales of sports category products tend to be stable, could be boosted by increasing women's phoenix bike products.
 
 ### About Me
 Linkedin      : https://linkedin.com/in/tsabitaumar
