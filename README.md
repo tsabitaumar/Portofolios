@@ -2,12 +2,12 @@
 https://lookerstudio.google.com/reporting/8cd66dfa-283f-4dba-9975-25bf5b7cc3e1
 
 ### Tools:
-Python : Cleaning data
+Python : Data cleaning
 <br> Looker Studio : Data visualization
 <br> Spreadsheet : Data source
 
 ### Data Source
-Data used in this portfolio is an open source supported by MySkill.id. Consist of event_date, gende, age, event_type, product_id, category, subcategory, brand, price, user_id, & user_session.
+Data used in this portfolio is an E-Commerce data supported by MySkill.id. Consist of event_date, gende, age, event_type, product_id, category, subcategory, brand, price, user_id, & user_session.
 
 ### Insights
 - The highest sales obtained from Samsung's smartphone.
